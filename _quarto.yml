@@ -6,7 +6,7 @@ website:
   title: ""
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
