@@ -5,5 +5,54 @@
     "title": "Aanish Pradhan",
     "section": "",
     "text": "Basic profile here hello"
+  },
+  {
+    "objectID": "photography_blog.html",
+    "href": "photography_blog.html",
+    "title": "Photography Blog",
+    "section": "",
+    "text": "Basic profile here hello\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "astrophotography_blog.html",
+    "href": "astrophotography_blog.html",
+    "title": "Astrophotography Blog",
+    "section": "",
+    "text": "Basic profile here hello\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 2, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Blogs/Photography-Posts/post-with-code/post_with_code.html",
+    "href": "Blogs/Photography-Posts/post-with-code/post_with_code.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Blogs/Astrophotography-Posts/post-with-code/post_with_code.html",
+    "href": "Blogs/Astrophotography-Posts/post-with-code/post_with_code.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Blogs/Astrophotography-Posts/welcome/welcome.html",
+    "href": "Blogs/Astrophotography-Posts/welcome/welcome.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Blogs/Photography-Posts/welcome/welcome.html",
+    "href": "Blogs/Photography-Posts/welcome/welcome.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects go here"
   }
 ]

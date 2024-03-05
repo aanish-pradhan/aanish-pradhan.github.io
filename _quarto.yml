@@ -8,8 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
+      - projects.qmd
       - text: Blogs
         menu:
           - astrophotography_blog.qmd

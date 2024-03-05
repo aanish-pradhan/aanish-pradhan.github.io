@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/photography_blog.html",
+    "items": [
+      "/Blogs/Photography-Posts/post-with-code/post_with_code.html",
+      "/Blogs/Photography-Posts/welcome/welcome.html"
+    ]
+  },
+  {
+    "listing": "/astrophotography_blog.html",
+    "items": [
+      "/Blogs/Astrophotography-Posts/post-with-code/post_with_code.html",
+      "/Blogs/Astrophotography-Posts/welcome/welcome.html"
+    ]
+  }
+]
