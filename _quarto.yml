@@ -1,24 +1,18 @@
 project:
-  type: website
-  output-dir: docs
-
-website:
-  title: ""
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-      - text: Blogs
-        menu:
-          - astrophotography_blog.qmd
-          - photography_blog.qmd
+    type: website
+    output-dir: docs
+    render:
+        - "*.qmd"
+        
+editor: source
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+    html:
+        theme: default
+        
+website:
+    title: ""
+    navbar:
+        left:
+            - href: src/index.qmd
+              text: Home

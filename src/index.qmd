@@ -1,0 +1,32 @@
+---
+title: "**Aanish Pradhan**"
+subtitle: "Computational and Data Science Student"
+description: "*\"The greater our knowledge increases, the greater our ignorance unfolds.\" - John F. Kennedy*"
+title-block-banner: ../assets/Figures/Home-Page/banner.jpg
+toc: true
+toc-depth: 2
+---
+
+```{r Packages, echo = FALSE}
+# IMPORT PACKAGES
+library(leaflet)
+```
+
+
+Hi there and welcome to my personal website!
+
+# About Me
+
+Currently, I'm a graduate student at Virginia Tech working towards my master's 
+degree in computer science. I completed my bachelor's in Computational Modeling 
+and Data Analytics (bulky phrase for applied math, computer science and 
+statistics, I know...) from Virginia Tech.  
+
+Broadly, my research interests lie at the intersection of numerical linear 
+algebra, high-performance computing and machine learning. I also have interests 
+in data visualization, explainable artificial intelligence and pedagogy.
+
+# Contact
+
+The best way to contact me is by sending me a message on my 
+[LinkedIn](https://linkedin.com/in/aanishpradhan).
