@@ -1,17 +1,12 @@
 ---
 title: "**Aanish Pradhan**"
 subtitle: "Computational and Data Science Student"
-description: "*\"The greater our knowledge increases, the greater our ignorance unfolds.\" - John F. Kennedy*"
+description: "*\"The greater our knowledge increases, the greater our ignorance 
+unfolds.\" - John F. Kennedy*"
 title-block-banner: ../assets/Figures/Home-Page/banner.jpg
 toc: true
 toc-depth: 2
 ---
-
-```{r Packages, echo = FALSE}
-# IMPORT PACKAGES
-library(leaflet)
-```
-
 
 Hi there and welcome to my personal website!
 

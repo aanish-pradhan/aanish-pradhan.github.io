@@ -1,0 +1,50 @@
+---
+toc: true
+toc-depth: 2
+---
+
+# Skills
+
+## Soft Skills
+
+Mentorship, Public speaking, Scientific writing, Teaching, Team leadership
+
+## Technical Skills
+
+**Areas**: Data Visualization, Deep Learning, Digital Signal Processing, 
+Environmental Data Science, GPU Programming, Machine (Statistical) Learning, 
+Mathematical Modeling, Numerical Linear Algebra, Parallel Programming  
+**Languages**: Bash, C, Java, JavaScript, Julia, GNU Octave/MATLAB, Python, R, 
+SQL  
+**Libraries**: CUDA, Matplotlib, NumPy, OpenCL, OpenMP, (Open) MPI, pandas, 
+PyTorch, ROCm HIP, scikit-learn, SciPy, Seaborn, tidyverse (`dplyr`, `forcats`, 
+`ggplot2`, `lubridate`, `readr`, `stringr`)  
+**Tools**: CSS, Git, GitHub/GitLab, HTML, (R)Markdown, RStudio, Vim, Visual 
+Studio Code  
+
+
+# Work Experience
+
+- **Virginia Tech Academy of Data Science** -- Blacksburg, VA, USA
+	- Compuational Modeling and Data Analytics Computing Consultant -- 
+	August 2023 to May 2024
+	
+	[^CMDA]: Computational Modeling and Data Analytics
+	
+	- Undergraduate Learning Assistant -- January 2024 to May 2024
+	- Peer Mentor -- August 2023 to December 2023
+- **CACI International, Inc.** -- Sterling, VA, USA
+	- Digital Signal Processing and Machine Learning Intern -- May 2023 to 
+	August 2023
+- **Virginia Tech Department of Biochemistry** -- Blacksburg, VA, USA
+	- Undergraduate Research Assistant -- August 2021 to September 2022
+
+# Education
+
+- **Virginia Tech** -- Blacksburg, VA, USA
+	- M.Eng. Computer Science & Applications -- May 2025 (Expected)
+	- Specialization: High-Performance Computing, Numerical Analysis and 
+	Machine Learning
+- **Virginia Tech** -- Blacksburg, VA, USA
+	- B.S. Computational Modeling and Data Analytics, *Magna cum laude* -- May 2024
+	- Minors: Computer Science, Mathematics, Statistics

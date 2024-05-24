@@ -14,5 +14,7 @@ website:
     title: ""
     navbar:
         left:
-            - href: src/index.qmd
-              text: Home
+            - href: src/index.qmd # Home
+              text: "Home"
+            - href: src/cv_resume.qmd # CV and Resume
+              text: "CV & Resume"

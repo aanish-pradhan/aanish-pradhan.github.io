@@ -5,5 +5,75 @@
     "title": "Aanish Pradhan",
     "section": "",
     "text": "Hi there and welcome to my personal website!\n\nAbout Me\nCurrently, I’m a graduate student at Virginia Tech working towards my master’s degree in computer science. I completed my bachelor’s in Computational Modeling and Data Analytics (bulky phrase for applied math, computer science and statistics, I know…) from Virginia Tech.\nBroadly, my research interests lie at the intersection of numerical linear algebra, high-performance computing and machine learning. I also have interests in data visualization, explainable artificial intelligence and pedagogy.\n\n\nContact\nThe best way to contact me is by sending me a message on my LinkedIn."
+  },
+  {
+    "objectID": "src/cv_resume.html",
+    "href": "src/cv_resume.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Mentorship, Public speaking, Scientific writing, Teaching, Team leadership\n\n\n\nAreas: Data Visualization, Deep Learning, Digital Signal Processing, Environmental Data Science, GPU Programming, Machine (Statistical) Learning, Mathematical Modeling, Numerical Linear Algebra, Parallel Programming\nLanguages: Bash, C, Java, JavaScript, Julia, GNU Octave/MATLAB, Python, R, SQL\nLibraries: CUDA, Matplotlib, NumPy, OpenCL, OpenMP, (Open) MPI, pandas, PyTorch, ROCm HIP, scikit-learn, SciPy, Seaborn, tidyverse (dplyr, forcats, ggplot2, lubridate, readr, stringr)\nTools: CSS, Git, GitHub/GitLab, HTML, (R)Markdown, RStudio, Vim, Visual Studio Code"
+  },
+  {
+    "objectID": "src/cv_resume.html#footnotes",
+    "href": "src/cv_resume.html#footnotes",
+    "title": "",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nComputational Modeling and Data Analytics↩︎\nComputational Modeling and Data Analytics↩︎"
+  },
+  {
+    "objectID": "src/index.html#about-me",
+    "href": "src/index.html#about-me",
+    "title": "Aanish Pradhan",
+    "section": "About Me",
+    "text": "About Me\nCurrently, I’m a graduate student at Virginia Tech working towards my master’s degree in computer science. I completed my bachelor’s in Computational Modeling and Data Analytics (bulky phrase for applied math, computer science and statistics, I know…) from Virginia Tech.\nBroadly, my research interests lie at the intersection of numerical linear algebra, high-performance computing and machine learning. I also have interests in data visualization, explainable artificial intelligence and pedagogy."
+  },
+  {
+    "objectID": "src/index.html#contact",
+    "href": "src/index.html#contact",
+    "title": "Aanish Pradhan",
+    "section": "Contact",
+    "text": "Contact\nThe best way to contact me is by sending me a message on my LinkedIn."
+  },
+  {
+    "objectID": "src/cv_resume.html#skills",
+    "href": "src/cv_resume.html#skills",
+    "title": "",
+    "section": "",
+    "text": "Mentorship, Public speaking, Scientific writing, Teaching, Team leadership\n\n\n\nLanguages: Bash, C, Java, JavaScript, Julia, GNU Octave/MATLAB, Python, R, SQL\nLibraries: CUDA, Matplotlib, NumPy, OpenCL, OpenMP, (Open) MPI, pandas, PyTorch, ROCm HIP, scikit-learn, SciPy, Seaborn, tidyverse (dplyr, forcats, ggplot2, lubridate, readr, stringr)\nTools: CSS, Git, GitHub/GitLab, HTML, (R)Markdown, RStudio, Vim, Visual Studio Code"
+  },
+  {
+    "objectID": "src/cv_resume.html#work-experience",
+    "href": "src/cv_resume.html#work-experience",
+    "title": "",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nVirginia Tech Academy of Data Science – Blacksburg, VA, USA\n\nCompuational Modeling and Data Analytics Computing Consultant – August 2023 to May 2024\n\n\nUndergraduate Learning Assistant – January 2024 to May 2024\nPeer Mentor – August 2023 to December 2023\n\nCACI International, Inc. – Sterling, VA, USA\n\nDigital Signal Processing and Machine Learning Intern – May 2023 to August 2023\n\nVirginia Tech Department of Biochemistry – Blacksburg, VA, USA\n\nUndergraduate Research Assistant – August 2021 to September 2022"
+  },
+  {
+    "objectID": "src/cv_resume.html#volunteer-experience",
+    "href": "src/cv_resume.html#volunteer-experience",
+    "title": "",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\nVirginia Tech Academy of Data Science – Blacksburg, VA, USA\n\nCompuational Modeling and Data Analytics Student Ambassador – August 2023 to May 2024"
+  },
+  {
+    "objectID": "src/cv_resume.html#education",
+    "href": "src/cv_resume.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n\nVirginia Tech – Blacksburg, VA, USA\n\nM.Eng. Computer Science & Applications – May 2025 (Expected)\nSpecialization: High-Performance Computing, Numerical Analysis and Machine Learning\n\nVirginia Tech – Blacksburg, VA, USA\n\nB.S. Computational Modeling and Data Analytics, Magna cum laude – May 2024\nMinors: Computer Science, Mathematics, Statistics"
+  },
+  {
+    "objectID": "src/cv_resume.html#soft-skills",
+    "href": "src/cv_resume.html#soft-skills",
+    "title": "Skills",
+    "section": "",
+    "text": "Mentorship, Public speaking, Scientific writing, Teaching, Team leadership"
+  },
+  {
+    "objectID": "src/cv_resume.html#technical-skills",
+    "href": "src/cv_resume.html#technical-skills",
+    "title": "Skills",
+    "section": "",
+    "text": "Areas: Data Visualization, Deep Learning, Digital Signal Processing, Environmental Data Science, GPU Programming, Machine (Statistical) Learning, Mathematical Modeling, Numerical Linear Algebra, Parallel Programming\nLanguages: Bash, C, Java, JavaScript, Julia, GNU Octave/MATLAB, Python, R, SQL\nLibraries: CUDA, Matplotlib, NumPy, OpenCL, OpenMP, (Open) MPI, pandas, PyTorch, ROCm HIP, scikit-learn, SciPy, Seaborn, tidyverse (dplyr, forcats, ggplot2, lubridate, readr, stringr)\nTools: CSS, Git, GitHub/GitLab, HTML, (R)Markdown, RStudio, Vim, Visual Studio Code"
   }
 ]
