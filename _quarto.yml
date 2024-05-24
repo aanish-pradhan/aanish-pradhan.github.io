@@ -18,3 +18,12 @@ website:
               text: "Home"
             - href: src/cv_resume.qmd # CV and Resume
               text: "CV & Resume"
+            - menu:
+                - href: https://www.github.com/aanish-pradhan
+                  icon: github
+                  text: "GitHub"
+                - href: https://www.linkedin.com/in/aanishpradhan
+                  icon: linkedin
+                  text: "LinkedIn"
+              text: "Links"
+                
