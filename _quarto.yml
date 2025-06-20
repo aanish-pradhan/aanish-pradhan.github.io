@@ -1,8 +1,6 @@
 project:
     type: website
-    output-dir: docs # GitHub Pages deploys from docs/
-    render:
-        - "*.qmd"
+    output-dir: docs
 
 format:
     html:
@@ -10,28 +8,30 @@ format:
             light: flatly
             dark: darkly
         css: styles.css
-        toc: True
+        # toc: true
 
 website:
+    title: "Aanish Pradhan"
     draft-mode: visible
-
     navbar:
         left:
-            - href: src/index.qmd
-              text: Home
+            - href: src/Home/index.qmd
+              text: "Home"
             - href: src/About-Me/about.qmd
-              text: About Me
-          
+              text: "About Me"
+              
     page-footer:
         background: light
-        border: True
+        border: true
         left: "Built with Quarto"
-        center: Copyright © Aanish Pradhan 2025. All Right Reserved.
-        right: 
+        center: "Copyright © Aanish Pradhan 2025. All Rights Reserved."
+        right:
             - icon: github
               href: https://github.com/aanish-pradhan/
             - icon: linkedin
               href: https://linkedin.com/in/aanishpradhan
-            - icon: mortarboard-fill
-              href: https://scholar.google.com/citations?user=h4lRh2oAAAAJ&hl=en
+
+
+
+
 

@@ -1,6 +1,5 @@
 ---
-title: "About"
-draft: True
+title: "About Me"
+draft: true
 ---
 
-About this site

@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "src/index.html",
-    "href": "src/index.html",
+    "objectID": "src/Home/index.html",
+    "href": "src/Home/index.html",
     "title": "Aanish Pradhan",
     "section": "",
-    "text": "Hi there! Welcome to my personal website.\n🚧 Page Under Construction\nThis page is still in the works, so check back soon for updates!"
-  },
-  {
-    "objectID": "src/About-Me/about.html",
-    "href": "src/About-Me/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
