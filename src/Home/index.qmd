@@ -1,11 +1,15 @@
 ---
 title: "Aanish Pradhan"
 subtitle: "Machine Learning Researcher"
-about: jolla
+about: 
+    template: jolla
+    image: "Profile_Picture.jpg"
+    image-shape: round
+    image-width: 20em
+draft: True    
 page-layout: full
-draft: True
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+👷 **This Page is Under Construction** 🚧  
+Thanks for stopping by! I'm currently working on building this page. Please 
+check back soon for updates.

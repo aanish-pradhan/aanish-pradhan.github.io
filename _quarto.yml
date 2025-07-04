@@ -1,6 +1,8 @@
 project:
     type: website
-    output-dir: docs
+    output-dir: docs # GitHub Pages deploys from docs/
+    # render: # Automatically renders all .qmd files by default
+    #     - "*.qmd"
 
 format:
     html:
@@ -19,6 +21,29 @@ website:
               text: "Home"
             - href: src/About-Me/about.qmd
               text: "About Me"
+            - href: src/CV-Resume/cv_resume.qmd
+              text: "CV/Resume"
+            - href: src/Publications/publications.qmd
+              text: "Publications"
+            # - href: src/Projects/projects.qmd
+            #   text: "Projects"
+            # - menu:
+            #     - href: src/Blogs/Computational-and-Data-Science/blog.qmd
+            #       text: "Computational and Data Science"
+            #   text: Blogs
+            # - href: src/FAQ/FAQ.qmd
+            #   text: "FAQ"              
+            - menu:
+                - href: https://www.github.com/aanish-pradhan
+                  icon: github
+                  text: "GitHub"
+                - href: https://scholar.google.com/citations?user=h4lRh2oAAAAJ&hl=en
+                  icon: mortarboard-fill
+                  text: "Google Scholar"
+                - href: https://www.linkedin.com/in/aanishpradhan
+                  icon: linkedin
+                  text: "LinkedIn"
+              text: "Links"
               
     page-footer:
         background: light
@@ -28,10 +53,7 @@ website:
         right:
             - icon: github
               href: https://github.com/aanish-pradhan/
+            - icon: mortarboard-fill
+              href: https://scholar.google.com/citations?user=h4lRh2oAAAAJ&hl=en
             - icon: linkedin
               href: https://linkedin.com/in/aanishpradhan
-
-
-
-
-

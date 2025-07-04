@@ -1,0 +1,50 @@
+---
+title: "CV/Resume"
+draft: true
+page-layout: full
+toc: true
+---
+
+👷 **This Page is Under Construction** 🚧  
+Thanks for stopping by! I'm currently working on building this page. Please 
+check back soon for updates.
+
+# Education
+- **Virginia Tech**
+	- M.S. Computer Science and Applications, *Summa Cum Laude*  
+		- Thesis: *Training Physics-Guided Neural Networks with Multiple Constraints: An Application in Lake Ecology Modeling*
+		- Advisor: Anuj Karpatne
+
+	- B.S. Computational Modeling and Data Analytics, *Magna Cum Laude* 
+		- Minors: Computer Science, Mathematics, Statistics
+	
+# Skills
+**Areas:** Deep Learning, Neural Networks, Parallel Programming, Physics-Guided Machine Learning, Statistical Learning  
+**APIs:** CUDA, MPI, OpenMP, Weights & Biases  
+**Frameworks & Libraries:** Matplotlib, NumPy, Optuna, Pandas/Polars, PyTorch, SciPy, scikit-learn, Seaborn, Tidyverse  
+**Languages:** Bash, C, GNU Octave/MATLAB, Java, JavaScript, $\LaTeX$, Python, R, SQL  
+**Tools:** Conda, CSS, Docker, Git, GitHub/GitLab, HTML, Jupyter
+
+# Industry Experience
+- **CACI International Inc.**
+	- Digital Signal Processing & Machine Learning Intern --- Advanced Solutions Group
+	
+# Research Experience
+- **Virginia Tech Department of Computer Science**
+	- Graduate Research Assistant --- Knowledge-Guided Machine Learning Lab
+	
+- **Virginia Tech Department of Biochemistry**
+	- Undergraduate Research Assistant --- Brown Lab
+	
+# Teaching Experience
+- **Virginia Tech Academy of Data Science**
+	- Undergraduate Learning Assistant --- CMDA 3634 High-Performance Computing
+	- Computing Consultant
+	- Peer Mentor --- CMDA 1634 First-Year Experience
+	
+- **Virginia Tech Department of Statistics**
+	- Undergraduate Teaching Assistant --- STAT 3104 Probability and Distributions
+	
+# Publications
+
+# Awards and Acknowledgements

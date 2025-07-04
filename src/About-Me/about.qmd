@@ -1,5 +1,37 @@
 ---
 title: "About Me"
+about:
+    template: solana
+    image: "Profile_Picture.jpg"
+    links:
+        - href: https://www.github.com/aanish-pradhan
+          icon: github
+          text: "GitHub"
+        - href: https://scholar.google.com/citations?user=h4lRh2oAAAAJ&hl=en
+          icon: mortarboard-fill
+          text: "Google Scholar"
+        - href: https://www.linkedin.com/in/aanishpradhan
+          icon: linkedin
+          text: "LinkedIn"
 draft: true
 ---
+
+👷 **This Page is Under Construction** 🚧  
+Thanks for stopping by! I'm currently working on building this page. Please 
+check back soon for updates.
+
+I am recent MS graduate from the Department of Computer Science at Virginia 
+Tech where I was advised by Anuj Karpatne in the Knowledge-Guided Machine 
+Learning Lab. My research is in multiobjective optimization/multitask learning 
+of physics-guided neural networks for applications in lake ecology and water 
+quality modeling.
+
+Prior to joining the MS program, I completed my Bachelor's in Computational 
+Modeling and Data Analytics from Virginia Tech.
+
+When I'm not working, I love to bike, travel and do photography (especially 
+astrophotography 🌌🔭).
+
+# Recent News
+
 

@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "src/CV-Resume/cv_resume.html",
+    "href": "src/CV-Resume/cv_resume.html",
+    "title": "CV/Resume",
+    "section": "",
+    "text": "👷 This Page is Under Construction 🚧\nThanks for stopping by! I’m currently working on building this page. Please check back soon for updates.\n\nEducation\n\nVirginia Tech\n\nM.S. Computer Science and Applications, Summa Cum Laude\n\nThesis: Training Physics-Guided Neural Networks with Multiple Constraints: An Application in Lake Ecology Modeling\nAdvisor: Anuj Karpatne\n\nB.S. Computational Modeling and Data Analytics, Magna Cum Laude\n\nMinors: Computer Science, Mathematics, Statistics\n\n\n\n\n\nSkills\nAreas: Deep Learning, Neural Networks, Parallel Programming, Physics-Guided Machine Learning, Statistical Learning\nAPIs: CUDA, MPI, OpenMP, Weights & Biases\nFrameworks & Libraries: Matplotlib, NumPy, Optuna, Pandas/Polars, PyTorch, SciPy, scikit-learn, Seaborn, Tidyverse\nLanguages: Bash, C, GNU Octave/MATLAB, Java, JavaScript, \\(\\LaTeX\\), Python, R, SQL\nTools: Conda, CSS, Docker, Git, GitHub/GitLab, HTML, Jupyter\n\n\nIndustry Experience\n\nCACI International Inc.\n\nDigital Signal Processing & Machine Learning Intern — Advanced Solutions Group\n\n\n\n\nResearch Experience\n\nVirginia Tech Department of Computer Science\n\nGraduate Research Assistant — Knowledge-Guided Machine Learning Lab\n\nVirginia Tech Department of Biochemistry\n\nUndergraduate Research Assistant — Brown Lab\n\n\n\n\nTeaching Experience\n\nVirginia Tech Academy of Data Science\n\nUndergraduate Learning Assistant — CMDA 3634 High-Performance Computing\nComputing Consultant\nPeer Mentor — CMDA 1634 First-Year Experience\n\nVirginia Tech Department of Statistics\n\nUndergraduate Teaching Assistant — STAT 3104 Probability and Distributions\n\n\n\n\nPublications\n\n\nAwards and Acknowledgements"
+  },
+  {
+    "objectID": "src/Publications/publications.html",
+    "href": "src/Publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Datasets\n\n\nAanish Pradhan, Bennet J. McAfee, Abhilash Neog, Sepideh Fatemi, Mary E. Lofton, Cayelan C. Carey, Anuj Karpatne, and Paul C. Hanson. 2024. “LakeBeD-US: Computer Science Edition - a Benchmark Dataset for Lake Water Quality Time Series and Vertical Profiles.” Hugging Face. https://doi.org/10.57967/hf/3771.\n\n\n\n\nJournal Articles\n\n\nMcAfee, Bennet J., Aanish Pradhan, Abhilash Neog, Sepideh Fatemi, Mary E. Lofton, Cayelan C. Carey, Anuj Karpatne, and Paul C. Hanson. 2025. “LakeBeD-US: A Benchmark Dataset for Lake Water Quality Time Series and Vertical Profiles.” Earth System Science Data, February. https://doi.org/10.5194/essd-2025-27.\n\n\n\n\nTheses and Dissertations\n\n\nPradhan, Aanish K. 2025. “Training Physics-Guided Neural Networks with Multiple Constraints: An Application in Lake Ecology Modeling.” Master’s thesis, Virginia Tech. https://hdl.handle.net/10919/134207.\n\n\n\n\nWorkshop Proceedings\n\n\nDutta, Amartya, Kazi Sajeed Mehrab, Medha Sawhney, Abhilash Neog, Mridul Khurana, Sepideh Fatemi, Aanish Pradhan, et al. 2025. “Open World Scene Graph Generation Using Vision Language Models.” In CVPR 2025 4th Workshop on Computer Vision in the Wild (CVinW). https://doi.org/10.48550/arXiv.2506.08189.\n\n\nNeog, Abhilash, Medha Sawhney, Kazi Sajeed Mehrab, Sepideh Fatemi, Mary E. Lofton, Amartya Dutta, Aanish Pradhan, et al. 2025. “Towards Scientific Foundation Models for Aquatic Ecosystems.” In IMCL 2025 1st Workshop on Foundation Models for Structured Data (FMSD). https://openreview.net/forum?id=hxMPNdhfIO."
+  },
+  {
     "objectID": "src/Home/index.html",
     "href": "src/Home/index.html",
     "title": "Aanish Pradhan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "👷 This Page is Under Construction 🚧\nThanks for stopping by! I’m currently working on building this page. Please check back soon for updates."
+  },
+  {
+    "objectID": "src/About-Me/about.html",
+    "href": "src/About-Me/about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "👷 This Page is Under Construction 🚧\nThanks for stopping by! I’m currently working on building this page. Please check back soon for updates.\nI am recent MS graduate from the Department of Computer Science at Virginia Tech where I was advised by Anuj Karpatne in the Knowledge-Guided Machine Learning Lab. My research is in multiobjective optimization/multitask learning of physics-guided neural networks for applications in lake ecology and water quality modeling.\nPrior to joining the MS program, I completed my Bachelor’s in Computational Modeling and Data Analytics from Virginia Tech.\nWhen I’m not working, I love to bike, travel and do photography (especially astrophotography 🌌🔭).\n\nRecent News"
   }
 ]

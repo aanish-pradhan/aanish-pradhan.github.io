@@ -1,0 +1,36 @@
+---
+title: "Publications"
+draft: true
+page-layout: full
+filters:
+    - multibib
+validate-yaml: false
+bibliography: 
+    datasets: datasets.bib
+    journals: journals.bib
+    theses-and-dissertations: theses_and_dissertations.bib
+    workshops: workshops.bib
+nocite: |
+  @*
+---
+
+# Datasets
+
+::: {#refs-datasets}
+:::
+
+# Journal Articles
+
+::: {#refs-journals}
+:::
+
+# Theses and Dissertations
+
+::: {#refs-theses-and-dissertations}
+:::
+
+# Workshop Proceedings
+
+::: {#refs-workshops}
+:::
+
